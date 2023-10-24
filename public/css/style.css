@@ -488,7 +488,7 @@ textarea {
   padding: 0.7rem 1rem 0.7rem;
   -webkit-box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
-  -webkit-appearance: none;
+  /* -webkit-appearance: none; */
   -webkit-transition: all .15s;
   -o-transition: all .15s;
   transition: all .15s;
@@ -1021,7 +1021,7 @@ a.brand:focus {
   overflow-x: hidden;
   overflow-y: auto;
   -webkit-overflow-scrolling: touch;
-  overflow-scrolling: touch;
+  /* overflow-scrolling: touch; */
   font-weight: 600;
   letter-spacing: -0.025rem;
   list-style: none;
